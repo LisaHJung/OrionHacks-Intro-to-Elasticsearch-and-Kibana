@@ -1,6 +1,6 @@
 # OrionHacks Workshop: Intro to Elasticsearch and Kibana
 
-This repo contains all resources shared during the workshop 1.1: Intro to Elasticsearch and Kibana at OrionHacks(1/16/2021).
+This repo contains all resources shared during Intro to Elasticsearch and Kibana workshop at OrionHacks(1/16/2021).
 
 ## Resources
 
