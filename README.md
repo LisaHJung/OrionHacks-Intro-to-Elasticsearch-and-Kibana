@@ -23,7 +23,7 @@ GET _cluster/health
 ```
 Expected response from Elasticsearch:
 
-![image](https://user-images.githubusercontent.com/60980933/101955613-64bd9000-3bbb-11eb-89da-564dd8680155.png)
+![image](https://user-images.githubusercontent.com/60980933/104654101-d6847000-5678-11eb-87ec-c14287b67d98.png)
 
 ### Get info about nodes in a cluster
 ```
@@ -31,7 +31,7 @@ GET _nodes/stats
 ```
 Expected response from Elasticsearch:
 
-![image](https://user-images.githubusercontent.com/60980933/101932662-5742de80-3b98-11eb-941c-7b654b16858c.png)
+![image](https://user-images.githubusercontent.com/60980933/104654256-05024b00-5679-11eb-9b7b-921c7072da18.png)
 
 ## Performing CRUD operations
 
