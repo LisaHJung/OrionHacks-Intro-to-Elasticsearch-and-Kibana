@@ -9,6 +9,7 @@ This repo contains all resources shared during the Intro to Elasticsearch and Ki
 [Presentation](https://github.com/LisaHJung/OrionHacks-Intro-to-Elasticsearch-and-Kibana/blob/main/OrionHacks_%20%20Part%201.%201%20Intro%20to%20Elasticsearch%20and%20Kibana-Beginner's%20Crash%20Course%20to%20the%20Elastic%20Stack%20Series%20.pdf)
 
 [Blog](https://dev.to/lisahjung/beginner-s-guide-to-elasticsearch-4j2k) Beginner's guide to Elasticsearch
+
 [Blog](https://dev.to/lisahjung/beginner-s-guide-to-performing-crud-operations-with-elasticsearch-kibana-1h0n) Beginner's guide to performing CRUD operations with Elasticsearch and Kibana
 
 [Elastic Austin User Group](https://www.meetup.com/elastic-austin-user-group/members/) Want to attend live workshops? Join the Elastic Austin User Group to keep up to date on all future events!
